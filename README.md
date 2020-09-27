@@ -1,9 +1,7 @@
 # Anleitung für RoboAG-Rechner
 
-Dieses Repository ist eine kleine Hilfe zur Installation und Konfiguration der RoboAG-Rechner.
-
-Zum Großteil werden die einzelnen Schritte nur durch Bilder dargestellt.
-
+Dieses Repository ist eine kleine Hilfe zur Installation und Konfiguration der RoboAG-Rechner. \
+Zum Großteil werden die Schritte nur durch Bilder dargestellt. \
 Nichtsdestotrotz sind die einzelnen Befehle im [Basis-Repository der RoboAG](https://github.com/RoboAG/bash_roboag) verankert.
 
 ## Clients (Arbeitsplatzrechner)
@@ -13,8 +11,7 @@ Aufgrund des Alters unserer Rechner benutzen wir das ressourcenschonende [Lubunt
 [Downloadlink](https://lubuntu.me/downloads/)
 
 ### aktuelle Version
-[Lubuntu 20.04. LTS](https://cdimage.ubuntu.com/lubuntu/releases/20.04/release/) wird aktuell verwendet.
-
+[Lubuntu 20.04. LTS](https://cdimage.ubuntu.com/lubuntu/releases/20.04/release/) wird aktuell verwendet. \
 Zuletzt installiert wurde [Lubuntu 20.04.1 LTS](https://cdimage.ubuntu.com/lubuntu/releases/20.04.1/release/lubuntu-20.04.1-desktop-amd64.iso).
 
 [aktuelle Installationsanleitung](20.04/client_install/README.md) \
@@ -31,8 +28,7 @@ Für den etwas leistungsstärkeren Server findet das weitverbreitete [Ubuntu](ht
 [Downloadlink](https://www.ubuntu.com/download/server)
 
 ### aktuelle Version
-[Ubuntu Server 20.04. LTS](https://cdimage.ubuntu.com/ubuntu/releases/20.04/release/) wird aktuell verwendet.
-
+[Ubuntu Server 20.04. LTS](https://cdimage.ubuntu.com/ubuntu/releases/20.04/release/) wird aktuell verwendet. \
 Zuletzt installiert wurde [Ubuntu Server 20.04.1 LTS](https://cdimage.ubuntu.com/ubuntu/releases/20.04/release/ubuntu-20.04.1-live-server-arm64.iso).
 
 Installationsanleitung _... todo_
