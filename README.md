@@ -16,7 +16,7 @@ Zuletzt installiert wurde [Lubuntu 20.04.1 LTS](https://cdimage.ubuntu.com/lubun
 
 [aktuelle Installationsanleitung](20.04/client_install/README.md) \
 [globale Einstellungen](20.04/client_setup/README.md) _... todo_ \
-lokale Konfiguration _... todo_
+[lokale Konfiguration](20.04/client_config/README.md)
 
 ### ältere Anleitungen
 
