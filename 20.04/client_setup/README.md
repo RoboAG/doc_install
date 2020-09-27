@@ -50,3 +50,11 @@ _Hinweis: Konsole mit [strg]+[alt]+[t] öffnen und hinterher z.B. mit [strg]+[d]
 <img src="114_samba_ordner.png"     width="300">
 
 _... todo ..._
+
+
+
+
+
+## Herunterfahren
+<img src="198_herunterfahren.png"   width="300" align="left">
+<img src="199_bestaetigen.png"      width="300">
