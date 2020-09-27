@@ -10,22 +10,28 @@ Gegebenenfalls auch die Hilfe in den [RoboAG-Skripten](https://github.com/RoboAG
 
 _Hinweis: die Konfiguration des Servers ist nicht dokumentiert_
 
+
+
 # Bilder
 ## Sprache wählen
 <img src="002_page1_finished.png"                               width="300">
+
 
 ## Tastatur
 <img src="004_page2_select_german.png"                          width="300" align="left">
 <img src="005_page2_finished.png"                               width="300">
 
+
 ## Installations Modus
 <img src="006_page3.png"                                        width="300">
+
 
 ## Netzwerkschnitstellen
 <img src="007_page4.png"                                        width="300" align="left">
 <img src="008_page5.png"                                        width="300">
 
 <img src="009_page6.png"                                        width="300">
+
 
 ## Partitionierung
 <img src="011_choose_manualconfig.png"                          width="300">
@@ -67,12 +73,15 @@ _Hinweis: die Konfiguration des Servers ist nicht dokumentiert_
 
 <img src="032_page7_manualconfig_final.png"                     width="300">
 
+
 ## Benutzer anlegen
 <img src="033_page7_identity.png"                               width="300">
+
 
 ## snap Packages auswählen
 <img src="034_page7_selectpackages_init.png"                    width="300" align="left">
 <img src="035_page7_selectpackages_finished.png"                width="300">
+
 
 ## Installation starten
 <img src="036_page11.png"                                       width="300" align="left">

@@ -8,6 +8,7 @@ Gegebenenfalls auch die Hilfe in den [RoboAG-Skripten](https://github.com/RoboAG
 **Hinterher** müssen die Clients noch [eingerichtet](../client_setup/README.md) werden.
 
 
+
 # Bilder
 ## Sprache wählen und LiveCD starten
 <img src="001_sprache.png"          width="300" align="left">
@@ -65,10 +66,12 @@ Die Backup-Partition nimmt den kompletten verbleibenden Platz ein.
 ### Überblick
 <img src="019_alle_partitionen.png" width="300">
 
-### Benutzer anlegen
+
+## Benutzer anlegen
 <img src="020_benutzer_anlegen.png" width="300">
 
-### Installation starten
+
+## Installation starten
 <img src="021_ueberblick_einstellungen.png" width="300" align="left">
 <img src="022_bestaetigen.png"      width="300" align="left">
 
