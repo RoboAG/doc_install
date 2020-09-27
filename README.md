@@ -15,7 +15,8 @@ Aufgrund des Alters unserer Rechner benutzen wir das ressourcenschonende [Lubunt
 Zuletzt installiert wurde [Lubuntu 20.04.1 LTS](https://cdimage.ubuntu.com/lubuntu/releases/20.04.1/release/lubuntu-20.04.1-desktop-amd64.iso).
 
 [aktuelle Installationsanleitung](20.04/client_install/README.md) \
-Konfiguration _... todo_
+[globale Einstellungen](20.04/client_setup/README.md) _... todo_ \
+lokale Konfiguration _... todo_
 
 ### ältere Anleitungen
 
