@@ -8,7 +8,7 @@ Gegebenenfalls auch die Hilfe in den [RoboAG-Skripten](https://github.com/RoboAG
 
     $ robo_help_install_server
 
-**Hinterher** sollte die [Desktopumgebung](../1b_Desktop/README.md) installiert werden.
+**Hinterher** sollte die [Desktopumgebung](../1b_desktop/README.md) installiert werden.
 
 
 
