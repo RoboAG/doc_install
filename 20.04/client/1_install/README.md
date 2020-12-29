@@ -5,7 +5,7 @@ Gegebenenfalls auch die Hilfe in den [RoboAG-Skripten](https://github.com/RoboAG
 
     $ robo_help_install
 
-**Hinterher** müssen die Clients noch [eingerichtet](../client_setup/README.md) werden.
+**Hinterher** müssen die Clients noch [eingerichtet](../2_setup/README.md) werden.
 
 
 

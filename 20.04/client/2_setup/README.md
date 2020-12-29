@@ -1,14 +1,14 @@
 # Setup für die Clients
 Anleitung für Lubuntu 20.04
 
-Bitte **vorher** die [Installation](../client_install/README.md) ausführen!
+Bitte **vorher** die [Installation](../1_install/README.md) ausführen!
 
 Gegebenenfalls auch die Hilfe in den [RoboAG-Skripten](https://github.com/RoboAG/bash_roboag) nutzen:
 
     $ robo_help_install
 
 **Hinterher** sollten die Clients noch für jeden Benutzer
-[konfiguriert](../client_config/README.md) werden.
+[konfiguriert](../3_config/README.md) werden.
 
 _Hinweis: Konsole mit [strg]+[alt]+[t] öffnen und hinterher z.B. mit [strg]+[d] schließen_
 

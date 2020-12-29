@@ -14,14 +14,14 @@ Aufgrund des Alters unserer Rechner benutzen wir das ressourcenschonende [Lubunt
 [Lubuntu 20.04 LTS](https://cdimage.ubuntu.com/lubuntu/releases/20.04/release/) wird aktuell verwendet. \
 Zuletzt installiert wurde [Lubuntu 20.04.1 LTS](https://cdimage.ubuntu.com/lubuntu/releases/20.04.1/release/lubuntu-20.04.1-desktop-amd64.iso).
 
-[aktuelle Installationsanleitung](20.04/client_install/README.md) \
-[globale Einstellungen](20.04/client_setup/README.md) _... todo_ \
-[lokale Konfiguration](20.04/client_config/README.md)
+[aktuelle Installationsanleitung](20.04/client/1_install/README.md) \
+[globale Einstellungen](20.04/client/2_setup/README.md) _... todo_ \
+[lokale Konfiguration](20.04/client/3_config/README.md)
 
 ### ältere Anleitungen
 
-[Installationsanleitung für 18.04](18.04/client_install/README.md) \
-[Konfiguration für 18.04](18.04/client_setup/README.md)
+[Installationsanleitung für 18.04](18.04/client/1_install/README.md) \
+[Konfiguration für 18.04](18.04/client/2_setup/README.md)
 
 ## Server
 Für den etwas leistungsstärkeren Server findet das weitverbreitete [Ubuntu](https://de.wikipedia.org/wiki/Ubuntu) in der Server-Version Anwendung.
@@ -35,8 +35,8 @@ Zuletzt installiert wurde [Ubuntu Server 20.04.1 LTS](https://cdimage.ubuntu.com
 Installationsanleitung _... todo_
 
 ### ältere Anleitungen
-[Installationsanleitung für 18.04](18.04/server_install/README.md) \
-_keine Konfiguration für 18.04_
+[Installationsanleitung für 18.04](18.04/server/1_install/README.md) \
+[Konfiguration für 18.04](18.04/server/2_setup/README.md)
 
 ## Allgemeine Hinweise
 * zur Installation braucht man ein Bootmedium
