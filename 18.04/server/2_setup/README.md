@@ -1,7 +1,7 @@
 # Konfiguration des Servers
 Anleitung für Ubuntu Server 18.04
 
-_Hinweise: es gibt eine [neuere Version](../../README.md) dieser Anleitung_
+_Hinweise: es gibt eine [neuere Version](../../../README.md) dieser Anleitung_
 
 Bitte **vorher** die [Installation](../1_install/README.md) ausführen!
 

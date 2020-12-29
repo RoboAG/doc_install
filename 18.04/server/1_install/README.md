@@ -1,7 +1,7 @@
 # Installation des Servers
 Anleitung für Ubuntu Server 18.04
 
-_Hinweise: es gibt eine [neuere Version](../../README.md) dieser Anleitung_
+_Hinweise: es gibt eine [neuere Version](../../../README.md) dieser Anleitung_
 
 Gegebenenfalls auch die Hilfe in den [RoboAG-Skripten](https://github.com/RoboAG/bash_roboag) nutzen:
 
