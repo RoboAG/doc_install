@@ -23,6 +23,14 @@ _Hinweis: Konsole mit [strg]+[alt]+[t] öffnen und hinterher z.B. mit [strg]+[d]
 ## RoboAG-Skripte auschecken
 
     # Konsole öffnen ([strg]+[alt]+[t])
+    $ wget -nv raw.githubusercontent.com/RoboAG/bash_roboag/master/checkout_all_users.sh
+    $ source checkout_all_users.sh
+        # Fragen mit "yes" beantworten
+    # hinterher Konsole schließen ([strg]+[d])
+
+Hinweis: In den drei folgenden Bildern wurde die alte Vorgehensweise genutzt.
+
+    # Konsole öffnen ([strg]+[alt]+[t])
     $ sudo mkdir -p /opt/roboag/repos
     $ sudo chown guru:guru /opt/roboag/repos
     $ cd /opt/roboag/repos
