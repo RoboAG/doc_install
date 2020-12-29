@@ -22,7 +22,7 @@ _Hinweis: Konsole mit [strg]+[alt]+[t] öffnen und hinterher z.B. mit [strg]+[d]
 
 ## RoboAG-Skripte auschecken
 
-    # Konsole öffnen (<strg>+<alt>+<t>)
+    # Konsole öffnen ([strg]+[alt]+[t])
     $ sudo mkdir -p /opt/roboag/repos
     $ sudo chown guru:guru /opt/roboag/repos
     $ cd /opt/roboag/repos
@@ -36,22 +36,22 @@ _Hinweis: Konsole mit [strg]+[alt]+[t] öffnen und hinterher z.B. mit [strg]+[d]
 
 <img src="105_bestaetigung.png" width="300">
 
-    # hinterher Konsole schließen (<strg>+<d>)
+    # hinterher Konsole schließen ([strg]+[d])
 
 ## Repositorys herunterladen
 
-    # Konsole öffnen (<strg>+<alt>+<t>)
+    # Konsole öffnen ([strg]+[alt]+[t])
     $ repo_clone_all
         # Frage mit "yes" beantworten
 
 <img src="106_alle_repos_herunterladen.png" width="300" align="left">
 <img src="107_fertig.png"           width="300">
 
-    # hinterher Konsole schließen (<strg>+<d>)
+    # hinterher Konsole schließen ([strg]+[d])
 
 ## Globale Einstellungen setzen
 
-    # Konsole öffnen (<strg>+<alt>+<t>)
+    # Konsole öffnen ([strg]+[alt]+[t])
     $ config_bash_search
         # Frage mit "yes" beantworten
     $ config_clear_home
@@ -60,11 +60,11 @@ _Hinweis: Konsole mit [strg]+[alt]+[t] öffnen und hinterher z.B. mit [strg]+[d]
 <img src="108_einstellung_bash_suche.png" width="300" align="left">
 <img src="109_einstellung_clear_home.png" width="300">
 
-    # hinterher Konsole schließen (<strg>+<d>)
+    # hinterher Konsole schließen ([strg]+[d])
 
 ## Benutzer RoboAG anlegen
 
-    # Konsole öffnen (<strg>+<alt>+<t>)
+    # Konsole öffnen ([strg]+[alt]+[t])
     $ sudo adduser roboag
         # neues Passwort eingeben (2x)
         # Name eingeben: RoboAG
