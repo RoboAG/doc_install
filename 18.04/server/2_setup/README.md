@@ -1,4 +1,4 @@
-# Installation des Servers
+# Konfiguration des Servers
 Anleitung für Ubuntu Server 18.04
 
 _Hinweise: es gibt eine [neuere Version](../../README.md) dieser Anleitung_
@@ -17,5 +17,5 @@ Einrichten des [Workspaces](2b_workspace/).
 
 _Hinweis: keine README vorhanden_
 
-## todo
-... weitere Installationen & Konfigurationen (z.B. apt-cacher, samba, ...)
+## Fehl ...
+weitere Installationen & Konfigurationen (z.B. apt-cacher, samba, ...)
