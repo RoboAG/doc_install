@@ -5,7 +5,7 @@ Bitte **vorher** die [Installation](../1_install/README.md) ausführen!
 
 Gegebenenfalls auch die Hilfe in den [RoboAG-Skripten](https://github.com/RoboAG/bash_roboag) nutzen:
 
-    $ robo_help_install
+    $ robo_help_setup_workspace
 
 **Hinterher** sollten die Clients noch für jeden Benutzer
 [konfiguriert](../3_config/README.md) werden.
@@ -15,7 +15,7 @@ _Hinweis: Konsole mit [strg]+[alt]+[t] öffnen und hinterher z.B. mit [strg]+[d]
 
 
 # Bilder
-## Erste Anmelden und Updates
+## Erste Anmeldung und Updates
 <img src="101_anmeldung.png"        width="300" align="left">
 <img src="102_start_updates.png"    width="300">
 
