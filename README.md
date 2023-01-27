@@ -4,44 +4,54 @@ Dieses Repository ist eine kleine Hilfe zur Installation und Konfiguration der R
 Zum Großteil werden die Schritte nur durch Bilder dargestellt. \
 Nichtsdestotrotz sind die einzelnen Befehle im [Basis-Repository der RoboAG](https://github.com/RoboAG/bash_roboag) verankert.
 
-## Clients (Arbeitsplatzrechner)
+# Aktuelle Version
 
-Aufgrund des Alters unserer Rechner benutzen wir das ressourcenschonende [Lubuntu](https://de.wikipedia.org/wiki/Lubuntu).
+Wir installieren auf allen Rechner des bekannte [Ubuntu](https://releases.ubuntu.com/) in der LTS version. \
+Siehe auch [Wiki](https://de.wikipedia.org/wiki/Ubuntu).
 
-[Downloadlink](https://lubuntu.me/downloads/)
+[Ubuntu 22.04 LTS](https://releases.ubuntu.com/22.04/) wird aktuell verwendet. \
+Zuletzt installiert wurde [Ubuntu 22.04.1 LTS](https://releases.ubuntu.com/22.04/ubuntu-22.04.1-desktop-amd64.iso).
 
-### aktuelle Version
+1. [Installationsanleitung](22.04/1_install/) _nur Bilder_ 
+2. [globale Einstellungen](22.04/2_setup/) _nur Bilder_ 
+3. Konfiguration _keine Anleitung vorhanden_
+
+
+# Ältere Versionen
+Früher haben wir verschiedene Linuxdistributionen für die Client-Rechner und den Server genutzt.
+
+## Client
+### Lubuntu 20.04
 [Lubuntu 20.04 LTS](https://cdimage.ubuntu.com/lubuntu/releases/20.04/release/) wird aktuell verwendet. \
 Zuletzt installiert wurde [Lubuntu 20.04.1 LTS](https://cdimage.ubuntu.com/lubuntu/releases/20.04.1/release/lubuntu-20.04.1-desktop-amd64.iso).
 
-[aktuelle Installationsanleitung](20.04/client/1_install/README.md) \
-[globale Einstellungen](20.04/client/2_setup/README.md) _... todo_ \
-[lokale Konfiguration](20.04/client/3_config/README.md)
+1. [Installationsanleitung](20.04/client/1_install/README.md)
+2. [globale Einstellungen](20.04/client/2_setup/README.md)
+3. [lokale Konfiguration](20.04/client/3_config/README.md)
 
-### ältere Anleitungen
-
-[Installationsanleitung für 18.04](18.04/client/1_install/README.md) \
-[Konfiguration für 18.04](18.04/client/2_setup/README.md)
+### Lubuntu 18.04
+1. [Installationsanleitung für 18.04](18.04/client/1_install/README.md)
+2. [Konfiguration für 18.04](18.04/client/2_setup/README.md)
 
 ## Server
-Für den etwas leistungsstärkeren Server findet das weitverbreitete [Ubuntu](https://de.wikipedia.org/wiki/Ubuntu) in der Server-Version Anwendung.
+Für den etwas leistungsstärkeren Server fand das weitverbreitete [Ubuntu](https://de.wikipedia.org/wiki/Ubuntu) in der Server-Version Anwendung.
 
 [Downloadlink](https://www.ubuntu.com/download/server)
 
-### aktuelle Version
+## Ubuntu Server 20.04
 [Ubuntu Server 20.04 LTS](https://cdimage.ubuntu.com/ubuntu/releases/20.04/release/) wird aktuell verwendet. \
 Zuletzt installiert wurde [Ubuntu Server 20.04.1 LTS](https://cdimage.ubuntu.com/ubuntu/releases/20.04/release/ubuntu-20.04.1-live-server-arm64.iso).
 
-Installationsanleitung _... todo_
+_keine Anleitungen vorhanden_
 
-### ältere Anleitungen
-[Installationsanleitung für 18.04](18.04/server/1_install/README.md) \
-[Konfiguration für 18.04](18.04/server/2_setup/README.md)
+## Ubuntu Server 18.04
+1. [Installationsanleitung für 18.04](18.04/server/1_install/README.md)
+2. [Konfiguration für 18.04](18.04/server/2_setup/README.md)
 
-## Allgemeine Hinweise
+# Allgemeine Hinweise
 * zur Installation braucht man ein Bootmedium
     * entweder einen USB-Stick umformatieren \
       (hilfreich unter Linux ist z.B. das Tool usb-creator-gtk)
-    * oder eine CD/DVD brennen
+    * oder eine DVD brennen
 * im BIOS des Zielrechner muss gegebenenfalls die Bootreihenfolge
   angepasst werden
