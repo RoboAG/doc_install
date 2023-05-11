@@ -1,0 +1,40 @@
+#!/bin/bash
+
+echo "initial config for autostart"
+echo "============================"
+echo ""
+
+echo ""
+echo "1. setting up boot config"
+ConfigFile="/boot/config.txt"
+if grep -e "^dtoverlay" "$ConfigFile" >> /dev/null; then
+    echo "  disabling dtoverlay"
+    sudo sed -i 's/^dtoverlay=/#dtoverlay=/g' "$ConfigFile"
+fi
+if ! grep -e "display_rotate=" "$ConfigFile" >> /dev/null; then
+    echo "  adding display rotation"
+    echo "display_rotate=0" | sudo tee -a "$ConfigFile"
+fi
+
+# wallpaper
+echo ""
+echo "2. setting background image"
+cp docs/RoboAG.png "${HOME}/Desktop/Background.png"
+pcmanfm --set-wallpaper "${HOME}/Desktop/Background.png"
+
+# desktop scripts
+echo ""
+echo "3. copying helper scripts to desktop"
+chmod u+x scripts/*.sh
+cp -r scripts/ "${HOME}/Desktop/"
+
+# install programs
+echo ""
+echo "4. installing okular"
+sudo apt install okular -y
+
+# default - run pdf
+echo ""
+echo "5. config autostart of PDF"
+cp docs/RoboSAX.pdf "${HOME}/Desktop/Presentation.pdf"
+scripts/PDF_autostart.sh
